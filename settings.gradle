@@ -1,0 +1,3 @@
+rootProject.name='MobiMvpDemo'
+include ':app'
+include ':mobi_mvp'
